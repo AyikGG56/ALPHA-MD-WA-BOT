@@ -12,12 +12,12 @@ global.APIKeys = {
 }
 
 //customize settings\\
-global.owner = ['94784506970']
-global.premium = ['94784506970']
-global.ownernomer = '94784506970'
-global.ownername = 'Achi Fernando'
-global.botname = '🎭ᴀʟᴘʜᴀ ᴡʜᴀᴛꜱᴀᴘᴘ ʙᴏᴛ-ᴍᴅ ᴇᴅɪᴛɪᴏɴ🎭 v1.0.0'
-global.footer = ' ᴀʟᴘʜᴀ ʙᴏᴛ-ᴍᴅ ᴇᴅɪᴛɪᴏɴ'
+global.owner = ['85648860032']
+global.premium = ['85648860032']
+global.ownernomer = '85648860032'
+global.ownername = 'Ayik GG™'
+global.botname = '🎭AyikBotz v1.0.0'
+global.footer = ' AyikBotz ʙᴏᴛ-ᴍᴅ ᴇᴅɪᴛɪᴏɴ'
 global.ig = 'https://github.com/ALPHA-OFFICIAL-TEAM'
 global.region = 'India, South India, Kerala'
 global.sc = 'https://github.com/ALPHA-OFFICIAL-TEAM'
